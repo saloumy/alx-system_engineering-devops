@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((2#BIN2RY))
+echo $((2#BINARY)o)
